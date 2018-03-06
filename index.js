@@ -157,7 +157,7 @@ function renderResults() {
           <h2>...${score} out of 10...dawg...</h2>
           <fieldset class="row">
               <legend></legend>
-              <img src="https://www.dropbox.com/s/iy6ylqsi3ys6232/iconspissed.png?dl=1" alt"Rick and Morty Pleased"> 
+              <img src="https://www.dropbox.com/s/iy6ylqsi3ys6232/iconspissed.png?dl=1" alt="Rick and Morty Pleased"> 
               <h3>Wow...you really screwed the pooch on that one...now look at the mess we're in!</h3>
           </fieldset>
           <button type="submit" class="resetButton" role="button">Think you can not kill us this time?</button>
@@ -171,7 +171,7 @@ function renderResults() {
           <h2>Woah dawg you got ${score} out of 10 questions right!</h2>
           <fieldset class="row">
               <legend></legend>
-              <img src="https://www.dropbox.com/s/jyzxr1azpfjums3/icons.png?dl=1" alt"Rick and Morty Pleased"> 
+              <img src="https://www.dropbox.com/s/jyzxr1azpfjums3/icons.png?dl=1" alt="Rick and Morty Pissed"> 
               <h3>Don't gloat too much...Nobody exists on purpose, nobody belongs anywhere, everybody's gonna die.</h3>
           </fieldset>
           <button type="submit" class="resetButton" role="button">Are you ready for another adventure?</button>
